@@ -12,7 +12,7 @@ class Daniel {
     }
 
     public function salirDeCasa(){
-        echo "vamos a dar una vuelta!";
+        echo "vamos a dar un garbeo!";
         }
     
 
